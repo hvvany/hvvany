@@ -2,15 +2,15 @@
 
 **#web_developer #the_king_of_the_desert** 
 
-![king_of_desert](README.assets/king_of_desert.jpg)
+![github_profile](README.assets/github_profile.jpg)
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvvany)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvvany)](https://github.com/anuraghazra/github-readme-stats) [![Solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjunhwan98)](https://solved.ac/kjunhwan98)
 
 
 
-[![Solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjunhwan98)](https://solved.ac/kjunhwan98)
+
 
 ---
 
